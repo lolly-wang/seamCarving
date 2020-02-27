@@ -1,6 +1,11 @@
 # seamCarving
 CIS 581 Course Project
 
+## Source
+Implement image resizing utilizing scene carving, based heavily on the methods outlined by Avidan & Shamir in their paper:
+
+"Seam Carving for Content-Aware Image Resizing"; Avidan, S. & Shamir, A.; 2007
+
 ## To run
 To implement my project, you can just call the main function in ‘test_script.py’ . 
 
